@@ -1,6 +1,6 @@
 ## 运行时数据区域
 
-![运行时内存](\study_note\pictures\java内存\运行时内存.png)
+![运行时内存](https://github.com/CCanyong/study_note/blob/master/pictures/java内存/虚拟机栈.png)
 
 ##### 一、程序计数器(记录程序运行的位置)
 
